@@ -82,10 +82,10 @@
 - `Intel(R) Speed Shift Technology`: must be **Enabled**
 
 **Boot TAB**
--`Fast Boot`: **Enabled**
+- `Fast Boot`: **Disabled**
 
 **Security TAB**
--`Secure Boot`: must be **Disabled**
+- `Secure Boot > Secure Boot Support`: must be **Disabled**
 
 </details>
 
