@@ -1,15 +1,17 @@
 # MSI GF65 Thin 10UE Hackintosh OpenCore
 
+<img align="right" src="./resources/1621.png" alt="GF65 on macOS" width="440">
+
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.6-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![macOSver](https://img.shields.io/badge/macOS-12.6.1-brightgreen.svg)](https://support.apple.com/HT213494)
+[![Winver](https://img.shields.io/badge/Windows-21H2-brightgreen.svg)]()
+
 ### ⚠️ Disclaimer:
-- use this EFI as an example, remember to always make your efi so you know how to fix it in case something breaks...
+- Use this EFI as an example, remember to always make your efi so you know how to fix it in case something breaks...
 - This EFI may not be constantly updated to the latest version of opencore especially if no major changes are made
-- please read the whole readme before proceeding
-- the readme is not yet complete and the efi will be marked as "pre-release" since it is not yet completely clean
+- Please read the whole readme before proceeding
+- The readme is not yet complete and the efi is not yet completely clean
 ##
-#### Bootloader version: Opencore 0.8.6
- *Tested with:* 
-- Mac OS version: Monterey 12.6.1
-- Windows version: Windows 10 & 11 21H2
 
 
 ### 💻 My Hardware
