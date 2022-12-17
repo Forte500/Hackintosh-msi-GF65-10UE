@@ -2,6 +2,7 @@
 
 <img align="right" src="./resources/1621.png" alt="GF65 on macOS" width="440">
 
+
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.6-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![macOSver](https://img.shields.io/badge/macOS-12.6.1-brightgreen.svg)](https://support.apple.com/HT213494)
 [![Winver](https://img.shields.io/badge/Windows-21H2-brightgreen.svg)]()
