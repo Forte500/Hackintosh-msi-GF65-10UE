@@ -81,7 +81,7 @@
 - `Power & Performance > CPU-Power Management Control > Configure CPU Lock Options > CFG lock`: must be **Disabled**
 - `Intel Virtualization Technology` & `VT-d` both enabled
 - `System Agent (SA) Configuration > Graphics Configuration > DVMT Pre-Allocated`: must be **64M**
-- `XHCI Hand-off`: must be **Enabled**
+- `USB Configuration > XHCI Hand-off`: must be **Enabled**
 - `Intel(R) Speed Shift Technology`: must be **Enabled**
 
 **Boot TAB**
