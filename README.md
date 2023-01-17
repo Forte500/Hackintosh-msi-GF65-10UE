@@ -8,10 +8,10 @@
 [![Winver](https://img.shields.io/badge/Windows-21H2-brightgreen.svg)]()
 
 ### ⚠️ Disclaimer:
-- Use this EFI as an example, remember to always make your efi so you know how to fix it in case something breaks...
+- Use this EFI as an **example**, remember to always make your efi so you know how to fix it in case something breaks...
 - This EFI may not be constantly updated to the latest version of opencore especially if no major changes are made
 - Please read the whole readme before proceeding
-- The readme is not yet complete and the efi is not yet completely clean
+- The readme is not yet complete and the efi is not yet completely clean from possible garbage
 ##
 
 
