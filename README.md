@@ -67,7 +67,8 @@
 - Apple Watch Unlock, Universal Control, Instant Hotspot with broadcom card
 
 ### ⚠︎ Known issues
-- wireless sidecar may lag (tested with BCM94360NG & iPad 6 ios 15.1)
+- Wireless sidecar may lag (tested with BCM94360NG & iPad 6 ios 15.1)
+- The dGPU could turn back on and consume power after wake-up from sleep (investigating)
 
 
 ## ⚙️ Setup
